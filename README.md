@@ -163,7 +163,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
 
 
 ## RESULT
